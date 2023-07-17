@@ -1,0 +1,17 @@
+header{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.IMG{
+    right: 42px;
+    top: 216px;
+    width: 364px;
+    height: 364px;
+}
+.text{
+    left: 46px;
+
+}
+
+
