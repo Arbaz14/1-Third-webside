@@ -2,6 +2,7 @@ header{
     display: flex;
     flex-direction: column;
     align-items: center;
+    height: 157px;
 }
 .IMG{
     right: 42px;
